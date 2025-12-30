@@ -1,4 +1,4 @@
-node_modules/
+
 image_processing/venv/
 image_processing/known_faces/
 __pycache__/
